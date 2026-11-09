@@ -12,7 +12,8 @@ fails = []
 # Add to this list whenever a new article names someone who was not charged.
 UNCHARGED = ["Vargas", "Daniels", "Bowman", "Percy", "Dorian", "Shaun", "Shaw", "Van Love", "Holmes", "Richie",
              "Lewis", "Marissa", "Clenelle", "Hill", "Young", "Eric", "Arron", "Castro", "Haffer", "Demarko",
-             "Farrar", "Michael Hill", "Richard"]
+             "Farrar", "Michael Hill", "Richard", "Holliday", "Torrey", "Keisha",
+             "McGee", "Marvin"]
 FIELDS = ["id", "date", "area", "title", "outcome", "kind", "happened", "claim", "ended", "note"]
 
 try:
